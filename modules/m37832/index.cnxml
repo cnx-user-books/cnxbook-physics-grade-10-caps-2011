@@ -1,0 +1,666 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Transverse Pulses</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37832</md:content-id>
+  <md:title>Transverse Pulses</md:title>
+  <md:abstract/>
+  <md:uuid>14acfeef-f0ef-41b9-8637-1f4fa4895599</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id312450">This chapter forms the basis of the discussion into mechanical waves. Waves are all around us, even though most of us are not aware of it. The most common waves are waves in the sea, but waves can be created in any container of water, ranging from an ocean to a tea-cup. Waves do not only occur in water, they occur in any kind of medium. Earthquakes generate waves that travel through the rock of the Earth. When your friend speaks to you he produces <emphasis effect="italics">sound waves</emphasis> that travel through the air to your ears. Light is made up of electromagnetic waves. A wave is simply moving energy.</para>
+    </section>
+    <section id="cid3">
+      <title>What is a <emphasis effect="italics">medium</emphasis>?</title>
+      <para id="id312816">In this chapter, as well as in the following chapters, we will speak about waves moving in a medium. A medium is just the substance or material through which waves move. In other words the medium carries the wave from one place to another. The medium does not create the wave and the medium is not the wave. Therefore the medium does not travel with the wave as the wave propagates through it. Air is a medium for sound waves, water is a medium for water waves and rock is a medium for earthquakes (which are also a type of wave). Air, water and rock are therefore examples of media (media is the plural of medium).</para>
+<definition id="fhsst_id51"><term id="termfhsst_id51"> Medium </term> <meaning id="meaningfhsst_id51">
+      <para id="id312830">A medium is the substance or material in which a wave will move. </para>
+      </meaning></definition>
+      <para id="id312841">In each medium, the atoms that make up the medium are moved <emphasis effect="italics">temporarily</emphasis> from their rest position. In order for a wave to travel, the different parts of the medium must be able to interact with each other.</para>
+    </section>
+    <section id="cid4"><title>What is a <emphasis effect="italics">pulse</emphasis>?</title><section id="secfhsst_id58"><title> Investigation : Observation of Pulses </title>
+      <para id="id312873">Take a heavy rope. Have two people hold the rope stretched out horizontally. Flick the rope at one end only once.</para>
+      <para id="id312879">
+        <figure id="id312882"><media id="id312882_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C4_001.png" id="id312882_onlineimage" width="208"><!-- NOTE: attribute width changes image size online (pixels). original width is 168. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_001.eps" id="id312882_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id312888">What happens to the disturbance that you created in the rope? Does it stay at the place where it was created or does it move down the length of the rope? </para>
+</section>
+      <para id="id312898">In the activity, we created a <emphasis effect="italics">pulse</emphasis>. A pulse is a <emphasis effect="italics">single</emphasis> disturbance that moves through a medium. In a transverse pulse the displacement of the medium is perpendicular to the direction of motion of the pulse. <link target-id="uid2"/> shows an example of a transverse pulse. In the activity, the rope or spring was held horizontally and the pulse moved the rope up and down. This was an example of a transverse pulse.</para>
+<definition id="fhsst_id71"><term id="termfhsst_id71"> Pulse </term> <meaning id="meaningfhsst_id71">
+      <para id="id312926">A pulse is a single disturbance that moves through a medium. </para>
+      </meaning></definition>
+<definition id="fhsst_id72"><term id="termfhsst_id72"> Transverse Pulse </term> <meaning id="meaningfhsst_id72">
+      <para id="id3129262">A pulse where all of the particles disturbed by the pulse move perpendicular (at a right angle) to the direction in which the pulse is moving. </para>
+      </meaning></definition>
+
+      <section id="uid1">
+        <title>Pulse Length and Amplitude</title>
+        <para id="id312946">The amplitude of a pulse is a measurement of how far the medium is displaced momentarily from a position of rest. The pulse length is a measurement of how long the pulse is. Both these quantities are shown in <link target-id="uid2"/>.</para>
+<definition id="fhsst_id77"><term id="termfhsst_id77"> Amplitude </term> <meaning id="meaningfhsst_id77">
+        <para id="id312963">The amplitude of a pulse is a measurement of how far the medium is displaced from rest. </para>
+        </meaning></definition>
+        <figure id="uid2"><media id="uid2_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C4_002.png" id="uid2_onlineimage" width="269"><!-- NOTE: attribute width changes image size online (pixels). original width is 159. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_002.eps" id="uid2_printimage"/>
+          </media>
+          
+        <caption>Example of a transverse pulse</caption></figure>
+<para id="eip-400">The position of rest is the position the medium would be in if it were undisturbed. This is also called the equilibrium position. Sometimes people will use rest and sometimes equilibrium but they will also use to the two in the same discussion to mean the same thing.</para><section id="secfhsst_id87"><title> Investigation : Pulse Length and Amplitude </title>
+        <para id="id312993">The graphs below show the positions of a pulse at different times.</para>
+        <para id="id312998">
+          <figure id="id313002"><media id="id313002_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C4_003.png" id="id313002_onlineimage" width="298"><!-- NOTE: attribute width changes image size online (pixels). original width is 178. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_003.eps" id="id313002_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id313008">Use your ruler to measure the lengths of <m:math overflow="scroll"><m:mi>a</m:mi></m:math> and <m:math overflow="scroll"><m:mi>p</m:mi></m:math>. Fill your answers in the table.</para>
+        <table id="id313027" summary="">
+          <tgroup cols="3">
+            <tbody>
+              <row>
+                <entry>Time</entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mi>a</m:mi>
+                  </m:math>
+                </entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mi>p</m:mi>
+                  </m:math>
+                </entry>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> s</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math> s</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow></m:math> s</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>3</m:mn></m:mrow></m:math> s</entry>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <para id="id313222">What do you notice about the values of <m:math overflow="scroll"><m:mi>a</m:mi></m:math> and <m:math overflow="scroll"><m:mi>p</m:mi></m:math>?
+ </para>
+</section>
+        <para id="id313246">In the activity, we found that the values for how high the pulse (<m:math overflow="scroll"><m:mi>a</m:mi></m:math>) is and how wide the pulse (<m:math overflow="scroll"><m:mi>p</m:mi></m:math>) is the same at different times. <emphasis effect="italics">Pulse length</emphasis> and <emphasis effect="italics">amplitude</emphasis> are two important quantities of a pulse.</para>
+      </section>
+      <section id="uid3">
+        <title>Pulse Speed</title>
+<definition id="fhsst_id145"><term id="termfhsst_id145"> Pulse Speed </term> <meaning id="meaningfhsst_id145">
+        <para id="id313292">Pulse speed is the distance a pulse travels per unit time. </para>
+        </meaning></definition>
+        <para id="id313303">In <link document="m37923" window="new">Motion in one dimension</link> we saw that speed was defined as the distance traveled per unit time. We can use the same definition of speed to calculate how fast a pulse travels. If the pulse travels a distance <m:math overflow="scroll"><m:mi>D</m:mi></m:math> in a time <m:math overflow="scroll"><m:mi>t</m:mi></m:math>, then the pulse speed <m:math overflow="scroll"><m:mi>v</m:mi></m:math> is:</para>
+        <equation id="uid4"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>v</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>D</m:mi>
+                <m:mi>t</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+<exercise id="secfhsst_id161"><title> Pulse Speed </title>
+        <problem id="probfhsst_id162">
+        <para id="id313369">A pulse covers a distance of <m:math><m:mn>2</m:mn><m:mspace width="3pt"/><m:mi mathvariant="normal">m</m:mi></m:math> in <m:math><m:mn>4</m:mn><m:mspace width="3pt"/><m:mi mathvariant="normal">s</m:mi></m:math> on a heavy rope. Calculate the pulse speed. </para>
+        </problem>
+        <solution id="solfhsst_id165"> <list id="listfhsst_id165" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine what is given and what is required </label>
+        <para id="id313393">We are given:</para>
+        <list id="id313396" display="block" list-type="bulleted"><item id="uid5">the distance travelled by the pulse: <m:math overflow="scroll"><m:mi>D</m:mi><m:mo>=</m:mo><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>
+</item>
+          <item id="uid6">the time taken to travel <m:math><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>: <m:math overflow="scroll"><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>4</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>
+</item>
+        </list>
+        <para id="id313439">We are required to calculate the speed of the pulse.</para>
+        </item> <item> <label> Determine how to approach the problem </label>
+        <para id="id313447">We can use:</para>
+        <equation id="id313450"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>v</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>D</m:mi>
+                <m:mi>t</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id313470">to calculate the speed of the pulse.</para>
+        </item> <item> <label> Calculate the pulse speed </label>
+        <equation id="id313479"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>v</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mi>D</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>4</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Write the final answer </label>
+        <para id="id313763">The pulse speed is <m:math><m:mn>0,5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<note id="notfhsst_id259" type="tip">The pulse speed depends on the properties of the medium and not on the amplitude or pulse length of the pulse.</note>
+<section id="secfhsst_id260"><title> Pulse Speed </title>
+        <list id="id313813" display="block" list-type="enumerated"><item id="uid7">A pulse covers a distance of <m:math><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> in <m:math><m:mn>15</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>. Calculate the speed of the pulse.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l1f">Click here for the solution.</link>
+</item>
+          <item id="uid8">A pulse has a speed of <m:math overflow="scroll"><m:mn>5</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">cm</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. How far does it travel in <m:math><m:mn>2,5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l1G">Click here for the solution.</link>
+</item>
+          <item id="uid9">A pulse has a speed of <m:math overflow="scroll"><m:mn>0,5</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. How long does it take to cover a distance of <m:math><m:mn>25</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">cm</m:mi></m:math>?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l17">Click here for the solution.</link>
+</item>
+          <item id="uid10">How long will it take a pulse moving at <m:math overflow="scroll"><m:mn>0,25</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> to travel a distance of <m:math><m:mn>20</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l1A">Click here for the solution.</link>
+</item>
+          <item id="uid11">The diagram shows two pulses in the same medium. Which has the higher speed? Explain your answer.
+<figure id="id313945"><media id="id313945_media" alt=""><image mime-type="image/png" src="../../media/PG10C4_004.png" id="id313945_onlineimage" width="172"><!-- NOTE: attribute width changes image size online (pixels). original width is 152. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_004.eps" id="id313945_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/l1o">Click here for the solution.</link></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+<section id="fs-id1166232432154">
+      <title>Superposition of Pulses</title>
+      <para id="id316136">Two or more pulses can pass through the same medium at that same time in the same place. When they do they interact with each other to form a different disturbance at that point. The resulting pulse is obtained by using the <emphasis effect="italics">principle of superposition</emphasis>. The principle of superposition states that the effect of the different pulses is the sum of their individual effects. After pulses pass through each other, each pulse continues along its original direction of travel, and their original amplitudes remain unchanged.</para>
+      <para id="id316148">Constructive interference takes place when two pulses meet each other to create a larger pulse. The amplitude of the resulting pulse is the sum of the amplitudes of the two initial pulses. This is shown in <link target-id="uid53"/>.</para>
+<definition id="fhsst_id567"><term id="termfhsst_id567"> Constructive interference</term> <meaning id="meaningfhsst_id567">
+      Constructive interference is when two pulses meet, resulting in a bigger pulse. 
+      </meaning></definition>
+      <figure id="uid53"><media id="uid53_media" alt="">
+          <image mime-type="image/png" src="../../media/PG10C4_018.png" id="uid53_onlineimage" width="191"><!-- NOTE: attribute width changes image size online (pixels). original width is 131. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_018.eps" id="uid53_printimage"/>
+        </media>
+        
+      <caption>Superposition of two pulses: constructive interference.</caption></figure>
+      <para id="id316190">Destructive interference takes place when two pulses meet and cancel each other. The amplitude of the resulting pulse is the sum of the amplitudes of the two initial pulses, but the one amplitude will be a negative number. This is shown in <link target-id="uid54"/>. In general, amplitudes of individual pulses add together to give the amplitude of the resultant pulse.</para>
+<definition id="fhsst_id578"><term id="termfhsst_id578"> Destructive interference</term> <meaning id="meaningfhsst_id578">
+      Destructive interference is when two pulses meet, resulting in a smaller pulse. 
+      </meaning></definition>
+      <figure id="uid54"><media id="uid54_media" alt="">
+          <image mime-type="image/png" src="../../media/PG10C4_019.png" id="uid54_onlineimage" width="381"><!-- NOTE: attribute width changes image size online (pixels). original width is 301. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_019.eps" id="uid54_printimage"/>
+        </media>
+        
+      <caption>Superposition of two pulses. The left-hand series of images demonstrates destructive interference, since the pulses cancel each other. The right-hand series of images demonstrate a partial cancelation of two pulses, as their amplitudes are not the same in magnitude.</caption></figure>
+<exercise id="secfhsst_id588"><title> Superposition of Pulses </title>
+      <problem id="probfhsst_id589">
+      <para id="id316249">The two pulses shown below approach each other at <m:math overflow="scroll"><m:mn>1</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Draw what the waveform would look like after <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, <m:math><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> and <m:math><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>.</para>
+      <para id="id316283">
+        <figure id="id316286"><media id="id316286_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C4_020.png" id="id316286_onlineimage" width="348"><!-- NOTE: attribute width changes image size online (pixels). original width is 268. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_020.eps" id="id316286_printimage"/>
+          </media>
+        </figure>
+      </para>
+      
+      </problem>
+      <solution id="solfhsst_id601"> <list id="listfhsst_id601" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> After <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> </label>
+      <para id="id316313">After <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, pulse A has moved <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> to the right and pulse B has moved <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> to the left.</para>
+      <para id="id316318">
+        <figure id="id316321"><media id="id316321_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C4_021.png" id="id316321_onlineimage" width="328"><!-- NOTE: attribute width changes image size online (pixels). original width is 268. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_021.eps" id="id316321_printimage"/>
+          </media>
+        </figure>
+      </para>
+      </item> <item> <label> After <m:math><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> </label>
+      <para id="id316332">After <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> more, pulse A has moved <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> to the right and pulse B has moved <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> to the left.</para>
+      <para id="id316337">
+        <figure id="id316340"><media id="id316340_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C4_022.png" id="id316340_onlineimage" width="328"><!-- NOTE: attribute width changes image size online (pixels). original width is 268. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_022.eps" id="id316340_printimage"/>
+          </media>
+        </figure>
+      </para>
+      </item> <item> <label> After <m:math><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> </label>
+      <para id="id316351">After <m:math><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, pulse A has moved <m:math><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> to the right and pulse B has moved <m:math><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> to the left.</para>
+      <para id="id316356">
+        <figure id="id316360"><media id="id316360_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C4_023.png" id="id316360_onlineimage" width="328"><!-- NOTE: attribute width changes image size online (pixels). original width is 268. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_023.eps" id="id316360_printimage"/>
+          </media>
+        </figure>
+      </para>
+      
+      </item> </list> </solution>
+</exercise>
+<note id="notfhsst_id635" type="tip">The idea of superposition is one that occurs often in physics. You will see <emphasis effect="italics">much, much more</emphasis> of superposition!</note>
+<section id="eip-791"><title>Experiment: Constructive and destructive interference</title><para id="eip-260"><title>Aim</title>
+To demonstrate constructive and destructive interference
+</para>
+<para id="eip7241"><title>Apparatus</title>Ripple tank apparatus
+<figure id="id63458"><media id="id63458_media" alt="">
+            <image mime-type="image/png" src="../../media/rippletray.png" id="id63458_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/rippletray.eps" id="id63458_printimage"/>
+            </media>
+            </figure></para>
+<para id="eip7474"><title>Method</title>
+<list id="id6242" list-type="enumerated"><item>Set up the ripple tank</item>
+<item>Produce a single pulse and observe what happens</item>
+<item>Produce two pulses simultaneously and observe what happens</item>
+<item>Produce two pulses at slightly different times and observe what happens</item>
+</list>
+</para>
+<para id="id614134"><title>Results and conclusion</title>
+You should observe that when you produce two pulses simultaneously you see them interfere constructively and when you produce two pulses at slightly different times you see them interfere destructively.
+</para></section><section id="secfhsst_id636"><title>Problems Involving Superposition of Pulses </title><list id="id316401" display="block" list-type="enumerated"><item id="uid55">For the following pulse, draw the resulting wave forms after <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, <m:math><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, <m:math><m:mn>3</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, <m:math><m:mn>4</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> and <m:math><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>. Each pulse is travelling at <m:math overflow="scroll"><m:mn>1</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Each block represents <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>. The pulses are shown as thick black lines and the undisplaced medium as dashed lines.
+<figure id="id316460"><media id="id316460_media" alt=""><image mime-type="image/png" src="../../media/PG10C4_024.png" id="id316460_onlineimage" width="384"><!-- NOTE: attribute width changes image size online (pixels). original width is 284. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_024.eps" id="id316460_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/l1M">Click here for the solution.</link></item><item id="uid57">For the following pulse, draw the resulting wave forms after <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, <m:math><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, <m:math><m:mn>3</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, <m:math><m:mn>4</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> and <m:math><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>. Each pulse is travelling at <m:math overflow="scroll"><m:mn>1</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Each block represents <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>. The pulses are shown as thick black lines and the undisplaced medium as dashed lines.<figure id="id316477"><media id="id316477_media" alt=""><image mime-type="image/png" src="../../media/PG10C4_025.png" id="id316477_onlineimage" width="384"><!-- NOTE: attribute width changes image size online (pixels). original width is 284. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_025.eps" id="id316477_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/l1e">Click here for the solution.</link></item><item id="uid58">For the following pulse, draw the resulting wave forms after <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, <m:math><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, <m:math><m:mn>3</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, <m:math><m:mn>4</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> and <m:math><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>. Each pulse is travelling at <m:math overflow="scroll"><m:mn>1</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Each block represents <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>. The pulses are shown as thick black lines and the undisplaced medium as dashed lines.<figure id="id316495"><media id="id316495_media" alt=""><image mime-type="image/png" src="../../media/PG10C4_026.png" id="id316495_onlineimage" width="384"><!-- NOTE: attribute width changes image size online (pixels). original width is 284. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_026.eps" id="id316495_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/l1t">Click here for the solution.</link></item><item id="uid59">For the following pulse, draw the resulting wave forms after <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, <m:math><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, <m:math><m:mn>3</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, <m:math><m:mn>4</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> and <m:math><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>. Each pulse is travelling at <m:math overflow="scroll"><m:mn>1</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Each block represents <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>. The pulses are shown as thick black lines and the undisplaced medium as dashed lines.<figure id="id316512"><media id="id316512_media" alt=""><image mime-type="image/png" src="../../media/PG10C4_027.png" id="id316512_onlineimage" width="384"><!-- NOTE: attribute width changes image size online (pixels). original width is 284. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_027.eps" id="id316512_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/l1z">Click here for the solution.</link></item><item id="uid60">For the following pulse, draw the resulting wave forms after <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, <m:math><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, <m:math><m:mn>3</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, <m:math><m:mn>4</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> and <m:math><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>. Each pulse is travelling at <m:math overflow="scroll"><m:mn>1</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Each block represents <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>. The pulses are shown as thick black lines and the undisplaced medium as dashed lines.<figure id="id316530"><media id="id316530_media" alt=""><image mime-type="image/png" src="../../media/PG10C4_028.png" id="id316530_onlineimage" width="384"><!-- NOTE: attribute width changes image size online (pixels). original width is 284. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_028.eps" id="id316530_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/l1u">Click here for the solution.</link></item><item id="uid61">For the following pulse, draw the resulting wave forms after <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, <m:math><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, <m:math><m:mn>3</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, <m:math><m:mn>4</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> and <m:math><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>. Each pulse is travelling at <m:math overflow="scroll"><m:mn>1</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Each block represents <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>. The pulses are shown as thick black lines and the undisplaced medium as dashed lines.<figure id="id316547"><media id="id316547_media" alt=""><image mime-type="image/png" src="../../media/PG10C4_029.png" id="id316547_onlineimage" width="384"><!-- NOTE: attribute width changes image size online (pixels). original width is 284. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_029.eps" id="id316547_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/l1J">Click here for the solution.</link></item>
+        <item id="uid62">
+          What is superposition of waves?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l1S">Click here for the solution.</link>
+</item>
+            <item id="uid64">What is constructive interference?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l1h">Click here for the solution.</link>
+</item>
+            <item id="uid65">What is destructive interference?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lrg">Click here for the solution.</link>
+        </item>
+      </list>
+      
+</section>
+    </section>
+
+<para id="fs-id1165499443114"> The following presentation provides a summary of the work covered in this chapter. Although the presentation is titled waves, the presentation covers pulses only.
+      <figure id="slidesharefigure">
+ <media id="slidesharemedia" alt="Slide show introducing the ideas behind Connexions.">
+  <flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=g10wavesp1-100511062100-phpapp01&amp;stripped_title=g10-waves-p1&amp;userName=kwarne">
+   <param name="allowScriptAccess" value="always"/>
+   <param name="allowFullScreen" value="true"/>
+  </flash>
+ </media>
+</figure>
+</para>
+    <section id="cid5">
+      <title>Graphs of Position and Velocity (Not in CAPS - Included for Completeness)</title>
+      <para id="id313982">When a pulse moves through a medium, there are two different motions: the motion of the particles of the medium and the motion of the pulse. These two motions are at right angles to each other when the pulse is transverse. Each motion will be discussed.</para>
+      <para id="id313988">Consider the situation shown in <link target-id="uid15"/>. The dot represents one particle of the medium. We see that as the pulse moves to the right the particle only moves up and down.</para>
+      <section id="uid13">
+        <title>Motion of a Particle of the Medium</title>
+        <para id="id314005">First we consider the motion of a particle of the medium when a pulse moves through the medium. For the explanation we will zoom into the medium so that we are looking at the atoms of the medium. These atoms are connected to each other as shown in <link target-id="uid14"/>.</para>
+        <figure id="uid14">
+          <media id="uid14_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C4_005.png" id="uid14_onlineimage" width="162"><!-- NOTE: attribute width changes image size online (pixels). original width is 142. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_005.eps" id="uid14_printimage"/>
+          </media>
+          <caption>Particles in a medium.</caption>
+        </figure>
+        <para id="id314028">When a pulse moves through the medium, the particles in the medium <emphasis effect="bold">only</emphasis> move up and down. We can see this in <link target-id="uid15"/> which shows the motion of a single particle as a pulse moves through the medium.</para>
+        <figure id="uid15"><media id="uid15_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C4_006.png" id="uid15_onlineimage" width="393"><!-- NOTE: attribute width changes image size online (pixels). original width is 113. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_006.eps" id="uid15_printimage"/>
+          </media>
+          
+        <caption>Positions of a pulse in a rope at different times. The pulse moves to the right as shown by the arrow. You can also see the motion of a point in the medium through which the pulse is travelling. Each block is 1 cm.</caption></figure>
+<note id="notfhsst_id301" type="tip">A particle in the medium <emphasis effect="bold">only</emphasis> moves up and down when a transverse pulse moves through the medium. The pulse moves from left to right (or right to left). The motion of the particle is perpendicular to the motion of a transverse pulse.</note>
+        <para id="id314071">If you consider the motion of the particle as a function of time, you can draw a graph of position vs. time and velocity vs. time.</para>
+<section id="secfhsst_id303"><title> Investigation : Drawing a position-time graph </title>
+        <list id="id314083" display="block" list-type="enumerated">
+          <item id="uid16">Study <link target-id="uid15"/> and complete the following table:
+<table id="id314101" summary=""><tgroup cols="11"><tbody><row><entry><emphasis effect="bold">time (s)</emphasis></entry><entry> 0</entry><entry> 1</entry><entry> 2</entry><entry> 3</entry><entry> 4</entry><entry> 5</entry><entry> 6</entry><entry> 7</entry><entry> 8</entry><entry> 9</entry></row><row><entry><emphasis effect="bold">position (cm)</emphasis></entry><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/></row></tbody></tgroup></table></item>
+          <item id="uid17">Use your table to draw a graph of position vs. time for a particle in a medium.
+</item>
+        </list>
+        
+</section>
+        <para id="id314306">The position vs. time graph for a particle in a medium when a pulse passes through the medium is shown in <link target-id="uid18"/></para>
+        <figure id="uid18"><media id="uid18_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C4_007.png" id="uid18_onlineimage" width="398"><!-- NOTE: attribute width changes image size online (pixels). original width is 318. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_007.eps" id="uid18_printimage"/>
+          </media>
+          
+        <caption>Position against Time graph of a particle in the medium through which a transverse pulse is travelling.</caption></figure>
+<section id="secfhsst_id320"><title> Investigation : Drawing a velocity-time graph </title>
+        <list id="id314335" display="block" list-type="enumerated">
+          <item id="uid19">Study <link target-id="uid18"/> and complete the following table:
+<table id="id314355" summary=""><tgroup cols="11"><tbody><row><entry><emphasis effect="bold">time (s)</emphasis></entry><entry> 0</entry><entry> 1</entry><entry> 2</entry><entry> 3</entry><entry> 4</entry><entry> 5</entry><entry> 6</entry><entry> 7</entry><entry> 8</entry><entry> 9</entry></row><row><entry><emphasis effect="bold">velocity (cm.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</emphasis></entry><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/></row></tbody></tgroup></table></item>
+          <item id="uid20">Use your table to draw a graph of velocity vs time for a particle in a medium.
+</item>
+        </list>
+        
+</section>
+        <para id="id314582">The velocity vs. time graph far a particle in a medium when a pulse passes through the medium is shown in <link target-id="uid21"/>.</para>
+        <figure id="uid21"><media id="uid21_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C4_008.png" id="uid21_onlineimage" width="462"><!-- NOTE: attribute width changes image size online (pixels). original width is 382. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_008.eps" id="uid21_printimage"/>
+          </media>
+          
+        <caption>Velocity against Time graph of a particle in the medium through which a transverse pulse is travelling.</caption></figure>
+      </section>
+      <section id="uid22">
+        <title>Motion of the Pulse</title>
+        <para id="id314614">The motion of the pulse is much simpler than the motion of a particle in the medium.</para>
+<note id="notfhsst_id341" type="tip">A point on a transverse pulse, eg. the peak, <emphasis effect="bold">only</emphasis> moves in the direction of the motion of the pulse.</note>
+<exercise id="secfhsst_id342"><title> Transverse pulse through a medium </title>
+        <problem id="probfhsst_id343">
+        <figure id="uid23"><media id="uid23_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C4_009.png" id="uid23_onlineimage" width="427"><!-- NOTE: attribute width changes image size online (pixels). original width is 227. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_009.eps" id="uid23_printimage"/>
+          </media>
+          
+        <caption>Position of the peak of a pulse at different times (since we know the shape of the pulse does not change we can look at only one point on the pulse to keep track of its position, the peak for example). The pulse moves to the right as shown by the arrow. Each square is <m:math overflow="scroll"><m:mrow><m:mn>0,5</m:mn><m:mspace width="2pt"/><m:mi>cm</m:mi></m:mrow></m:math>.</caption></figure>
+        <para id="id314673">Given the series of snapshots of a transverse pulse moving through a medium, depicted in <link target-id="uid23"/>, do the following:</para>
+        <list id="id314682" display="block" list-type="bulleted">
+          <item id="uid24">draw up a table of time, position and velocity,
+</item>
+          <item id="uid25">plot a position vs. time graph,
+</item>
+          <item id="uid26">plot a velocity vs. time graph.
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id362"> <list id="listfhsst_id362" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Interpreting the figure </label>
+        <para id="id314745"><link target-id="uid23"/> shows the motion of a pulse through a medium and a dot to indicate the same position on the pulse. If we follow the dot, we can draw a graph of position vs time for a pulse. At <m:math><m:mi>t</m:mi><m:mo>=</m:mo> <m:mn>0</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> the dot is at <m:math><m:mn>0</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">cm</m:mi></m:math>. At <m:math><m:mi>t</m:mi><m:mo>=</m:mo> <m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> the dot is <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">cm</m:mi></m:math> away from its original postion. At <m:math><m:mi>t</m:mi><m:mo>=</m:mo> <m:mn>2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> the dot is <m:math><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">cm</m:mi></m:math> away from its original postion, and so on.</para>
+        </item> <item> <label> We can draw the following table: </label>
+        <table id="id314762" summary="">
+          <tgroup cols="11">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">time (s)</emphasis>
+                </entry>
+                <entry>0</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>8</entry>
+                <entry>9</entry>
+              </row>
+              <row>
+                <entry>
+                  <emphasis effect="bold">position (cm)</emphasis>
+                </entry>
+                <entry>0</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>8</entry>
+                <entry>9</entry>
+              </row>
+              <row>
+                <entry>
+                  <emphasis effect="bold">velocity (cm.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</emphasis>
+                </entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        </item> <item> <label> A graph of position vs time is drawn as is shown in the figure. </label>
+        <para id="id315076">
+          <figure id="id315079"><media id="id315079_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C4_010.png" id="id315079_onlineimage" width="379"><!-- NOTE: attribute width changes image size online (pixels). original width is 319. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_010.eps" id="id315079_printimage"/>
+            </media>
+          </figure>
+        </para>
+        </item> <item> <label> Similarly, a graph of velocity vs time is drawn and is shown in the figure below. </label>
+        <para id="id315090">
+          <figure id="id315093"><media id="id315093_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C4_011.png" id="id315093_onlineimage" width="395"><!-- NOTE: attribute width changes image size online (pixels). original width is 325. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_011.eps" id="id315093_printimage"/>
+            </media>
+          </figure>
+        </para>
+        
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id439"><title> Travelling Pulse </title>
+        <list id="id315122" display="block" list-type="enumerated"><item id="uid27">A pulse is passed through a rope and the following pictures were obtained for each time interval:
+<figure id="id315142"><media id="id315142_media" alt=""><image mime-type="image/png" src="../../media/PG10C4_012.png" id="id315142_onlineimage" width="498"><!-- NOTE: attribute width changes image size online (pixels). original width is 118. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_012.eps" id="id315142_printimage"/></media></figure><list id="id315148" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid28">Complete the following table for a particle in the medium:
+<table id="id315164" summary=""><tgroup cols="10"><tbody><row><entry><emphasis effect="bold">time (s)</emphasis></entry><entry>0,00</entry><entry>0,25</entry><entry>0,50</entry><entry>0,75</entry><entry>1,00</entry><entry>1,25</entry><entry>1,50</entry><entry>1,75</entry><entry>2,00</entry></row><row><entry><emphasis effect="bold">position (mm)</emphasis></entry><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/></row><row><entry><emphasis effect="bold">velocity (mm.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</emphasis></entry><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/><entry/></row></tbody></tgroup></table></item><item id="uid29">Draw a position vs. time graph for the motion of the particle at <m:math><m:mn>3</m:mn><m:mspace width="2pt"/><m:mi>cm</m:mi></m:math>.
+</item><item id="uid30">Draw a velocity vs. time graph for the motion of the particle at <m:math><m:mn>3</m:mn><m:mspace width="2pt"/><m:mi>cm</m:mi></m:math>.
+</item><item id="uid31">Draw a position vs. time graph for the motion of the pulse through the rope.
+</item><item id="uid32">Draw a velocity vs. time graph for the motion of the pulse through the rope.
+</item></list><newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l1s">Click here for the solution.</link></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid6">
+      <title>Transmission and Reflection of a Pulse at a Boundary</title>
+      <para id="id315506">What happens when a pulse travelling in one medium finds that medium is joined to another?</para>
+<section id="secfhsst_id456"><title> Investigation : Two ropes </title>
+      <para id="id315518">Find two different ropes and tie both ropes together. Hold the joined ropes horizontally and create a pulse by flicking the rope up and down. What happens to the pulse when it encounters the join? </para>
+</section>
+      <para id="id315531">When a pulse is transmitted from one medium to another, like from a thin rope to a thicker one, the nature of the pulse will change where it meets the boundary of the two media (i.e. where the two ropes are joined). Part of the pulse will be reflected and part of it will be transmitted. <link target-id="uid33"/> shows the general case of a pulse meeting a boundary. The <emphasis effect="bold">incident pulse</emphasis> is the one that arrives at the boundary. The <emphasis effect="bold">reflected pulse</emphasis> is the one that moves back, away from the boundary. The <emphasis effect="bold">transmitted pulse</emphasis> is the one that moves into the new medium, away from the boundary. The speed of the pulse depends on the mass of the rope; the pulse is faster in the thinner rope and slower in the thick rope. When the speed of the pulse increases, the pulse length will increase. If the speed decreases, the pulse length will decrease.</para>
+      <figure id="uid33"><media id="uid33_media" alt="">
+          <image mime-type="image/png" src="../../media/PG10C4_013.png" id="uid33_onlineimage" width="301"><!-- NOTE: attribute width changes image size online (pixels). original width is 181. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_013.eps" id="uid33_printimage"/>
+        </media>
+        
+      <caption>Reflection and transmission of a pulse at the boundary between two media.</caption></figure>
+      <para id="id315578">Consider a pulse moving from a thin rope to a thick rope. As the pulse crosses the boundary, the speed of the pulse will decrease as it moves into the thicker rope. The pulse will move slower, so the pulse length will decrease. The pulse will be reflected and inverted in the thin rope. The reflected pulse will have the same length and speed but will have a smaller amplitude. This is illustrated in <link target-id="uid34"/>.</para>
+      <figure id="uid34"><media id="uid34_media" alt="">
+          <image mime-type="image/png" src="../../media/PG10C4_014.png" id="uid34_onlineimage" width="492"><!-- NOTE: attribute width changes image size online (pixels). original width is 252. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_014.eps" id="uid34_printimage"/>
+        </media>
+        
+      <caption>Reflection and transmission of a pulse at the boundary between two media.</caption></figure>
+      <para id="id315605">When a pulse moves from a thick rope to a thin rope, the opposite will happen. As the pulse crosses the boundary, the speed of the pulse will increase as it moves into the thinner rope. The pulse in the thin rope will move faster, so the pulse length will increase. The pulse will be reflected but not inverted in the thick rope. The reflected pulse will have the same length and speed but will have a smaller amplitude. This is illustrated in <link target-id="uid35"/></para>
+      <figure id="uid35"><media id="uid35_media" alt="">
+          <image mime-type="image/png" src="../../media/PG10C4_015.png" id="uid35_onlineimage" width="504"><!-- NOTE: attribute width changes image size online (pixels). original width is 264. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_015.eps" id="uid35_printimage"/>
+        </media>
+        
+      <caption>Reflection and transmission of a pulse at the boundary between two media.</caption></figure>
+<section id="secfhsst_id483"><title> Pulses at a Boundary I </title>
+      <list id="id315640" display="block" list-type="enumerated"><item id="uid36">Fill in the blanks or select the correct answer:
+A pulse in a heavy rope is traveling towards the boundary with a thin piece of string.
+<list id="id315656" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid37">The reflected pulse in the heavy rope 
+<emphasis effect="italics"><emphasis effect="bold">will/will not</emphasis></emphasis>
+ be inverted because <space count="10" effect="underline"/>.
+</item><item id="uid38">The speed of the transmitted pulse will be 
+<emphasis effect="italics"><emphasis effect="bold">greater than/less than/the same as</emphasis></emphasis>
+ the speed of the incident pulse.
+</item><item id="uid39">The speed of the reflected pulse will be 
+<emphasis effect="italics"><emphasis effect="bold">greater than/less than/the same as</emphasis></emphasis>
+ the speed of the incident pulse.
+</item><item id="uid40">The pulse length of the transmitted pulse will be 
+<emphasis effect="italics"><emphasis effect="bold">greater than/less than/the same as</emphasis></emphasis>
+ the pulse length of the incident pulse.
+</item><item id="uid41">The frequency of the transmitted pulse will be 
+<emphasis effect="italics"><emphasis effect="bold">greater than/less than/the same as</emphasis></emphasis>
+ the frequency of the incident pulse.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/l1H">Click here for the solution.</link></item>
+        <item id="uid42">A pulse in a light string is traveling towards the boundary with a heavy rope.
+<list id="id315812" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid43">The reflected pulse in the light rope 
+<emphasis effect="italics"><emphasis effect="bold">will/will not</emphasis></emphasis>
+ be inverted because <space count="10" effect="underline"/>.
+</item><item id="uid44">The speed of the transmitted pulse will be 
+<emphasis effect="italics"><emphasis effect="bold">greater than/less than/the same as</emphasis></emphasis>
+ the speed of the incident pulse.
+</item><item id="uid45">The speed of the reflected pulse will be 
+<emphasis effect="italics"><emphasis effect="bold">greater than/less than/the same as</emphasis></emphasis>
+ the speed of the incident pulse.
+</item><item id="uid46">The pulse length of the transmitted pulse will be 
+<emphasis effect="italics"><emphasis effect="bold">greater than/less than/the same as</emphasis></emphasis>
+ the pulse length of the incident pulse.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/l16">Click here for the solution.</link></item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid7">
+      <title>Reflection of a Pulse from Fixed and Free Ends (not in CAPS - included for completeness)</title>
+      <para id="id315948">Let us now consider what happens to a pulse when it reaches the end of a medium. The medium can be fixed, like a rope tied to a wall, or it can be free, like a rope tied loosely to a pole.</para>
+      <section id="uid47">
+        <title>Reflection of a Pulse from a Fixed End</title>
+<section id="secfhsst_id526"><title> Investigation : Reflection of a Pulse from a Fixed End </title>
+        <para id="id315970">Tie a rope to a wall or some other object that cannot move. Create a pulse in the rope by flicking one end up and down. Observe what happens to the pulse when it reaches the wall. </para>
+</section>
+        <figure id="uid48"><media id="uid48_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C4_016.png" id="uid48_onlineimage" width="376"><!-- NOTE: attribute width changes image size online (pixels). original width is 236. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_016.eps" id="uid48_printimage"/>
+          </media>
+          
+        <caption>Reflection of a pulse from a fixed end.</caption></figure>
+        <para id="id315995">When the end of the medium is fixed, for example a rope tied to a wall, a pulse reflects from the fixed end, but the pulse is inverted (i.e. it is upside-down). This is shown in <link target-id="uid48"/>.</para>
+      </section>
+      <section id="uid49">
+        <title>Reflection of a Pulse from a Free End</title>
+<section id="secfhsst_id540"><title> Investigation : Reflection of a Pulse from a Free End </title>
+        <para id="id316024">Tie a rope to a pole in such a way that the rope can move up and down the pole. Create a pulse in the rope by flicking one end up and down. Observe what happens to the pulse when it reaches the pole. </para>
+</section>
+        <para id="id316037">When the end of the medium is free, for example a rope tied loosely to a pole, a pulse reflects from the free end, but the pulse is <emphasis effect="underline">not inverted</emphasis>. This is shown in <link target-id="uid50"/>. We draw the free end as a ring around the pole. The ring will move up and down the pole, while the pulse is reflected away from the pole.</para>
+        <figure id="uid50"><media id="uid50_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C4_017.png" id="uid50_onlineimage" width="377"><!-- NOTE: attribute width changes image size online (pixels). original width is 237. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_017.eps" id="uid50_printimage"/>
+          </media>
+          
+        <caption>Reflection of a pulse from a free end.</caption></figure>
+<note id="notfhsst_id551" type="tip">The fixed and free ends that were discussed in this section are examples of <emphasis effect="italics">boundary conditions</emphasis>. You will see more of boundary conditions as you progress in the Physics syllabus.</note>
+<section id="secfhsst_id552"><title> Pulses at a Boundary II </title>
+        <list id="id316086" display="block" list-type="enumerated"><item id="uid51">A rope is tied to a tree and a single pulse is generated. What happens to the pulse as it reaches the tree? Draw a diagram to explain what happens.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l1F">Click here for the solution.</link>
+</item>
+          <item id="uid52">A rope is tied to a ring that is loosely fitted around a pole. A single pulse is sent along the rope. What will happen to the pulse as it reaches the pole? Draw a diagram to explain your answer.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l1L">Click here for the solution.</link>
+</item>
+        </list>
+        
+</section>
+      </section><para id="eip-397">The following simulation will help you understand the previous examples. Choose pulse from the options (either manual, oscillate or pulse). Then click on pulse and see what happens. Change from a fixed to a free end and see what happens. Try varying the width, amplitude, damping and tension.
+<figure id="transverse-pulses" class="phetsim"><title>Phet simulation for transverse pulses</title><media id="phet_sim" display="block" alt="transverse pulses phet simulation">
+	  <flash id="phet-simulation" mime-type="application/x-shockwave-flash" src="wave-on-a-string.swf" width="425" height="344">
+	  </flash>
+	  </media>
+	  </figure></para>
+    </section>
+  
+    <section id="eip-812"><title>Summary</title><list id="eip-404"><item>A medium is the substance or material in which a wave will move</item>
+<item>A pulse is a single disturbance that moves through a medium</item>
+<item>The amplitude of a pules is a measurement of how far the medium is displaced from rest</item>
+<item>Pulse speed is the distance a pulse travels per unit time</item>
+<item>Constructive interference is when two pulses meet and result in a bigger pulse</item>
+<item>Destructive interference is when two pulses meet and and result in a smaller pulse</item>
+<item>We can draw graphs to show the motion of a particle in the medium or to show the motion of a pulse through the medium</item>
+<item>When a pulse moves from a thin rope to a thick rope, the speed and pulse length decrease. The pulse will be reflected and inverted in the thin rope. The reflected pulse has the same length and speed, but a different amplitude</item>
+<item>When a pulse moves from a thick rope to a thin rope, the speed and pulse length increase. The pulse will be reflected in the thick rope. The reflected pulse has the same length and speed, but a different amplitude</item>
+<item>A pulse reaching a free end will be reflected but not inverted. A pulse reaching a fixed end will be reflected and inverted</item>
+
+
+
+</list></section><section id="cid9">
+      <title>Exercises - Transverse Pulses</title>
+      <list id="id316647" display="block" list-type="enumerated"><item id="uid66">A heavy rope is flicked upwards, creating a single pulse in the rope. Make a drawing of the rope and indicate the following in your drawing:
+<list id="id316663" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid67">The direction of motion of the pulse
+</item><item id="uid68">Amplitude
+</item><item id="uid69">Pulse length
+</item><item id="uid70">Position of rest
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lrl">Click here for the solution.</link></item>
+        <item id="uid71">A pulse has a speed of <m:math overflow="scroll"><m:mn>2,5</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. How far will it have travelled in <m:math><m:mn>6</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lri">Click here for the solution.</link>
+</item>
+        <item id="uid72">A pulse covers a distance of <m:math><m:mn>75</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">cm</m:mi></m:math> in <m:math><m:mn>2,5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>. What is the speed of the pulse?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lr3">Click here for the solution.</link>
+</item>
+        <item id="uid73">How long does it take a pulse to cover a distance of <m:math><m:mn>200</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">mm</m:mi></m:math> if its speed is <m:math overflow="scroll"><m:mn>4</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lrO">Click here for the solution.</link>
+</item>
+        <item id="uid74">The following position-time graph for a pulse in a slinky spring is given. Draw an accurate sketch graph of the velocity of the pulse against time.
+<figure id="id316803"><media id="id316803_media" alt=""><image mime-type="image/png" src="../../media/PG10C4_030.png" id="id316803_onlineimage" width="193"><!-- NOTE: attribute width changes image size online (pixels). original width is 173. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_030.eps" id="id316803_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/lrc">Click here for the solution.</link></item>
+        <item id="uid75">The following velocity-time graph for a particle in a medium is given. Draw an accurate sketch graph of the position of the particle vs. time.
+<figure id="id316826"><media id="id316826_media" alt=""><image mime-type="image/png" src="../../media/PG10C4_031.png" id="id316826_onlineimage" width="197"><!-- NOTE: attribute width changes image size online (pixels). original width is 177. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_031.eps" id="id316826_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/lrx">Click here for the solution.</link></item>
+        <item id="uid76">Describe what happens to a pulse in a slinky spring when:
+<list id="id316845" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid77">the slinky spring is tied to a wall.
+</item><item id="uid78">the slinky spring is loose, i.e. not tied to a wall.
+</item></list>
+(Draw diagrams to explain your answers.)<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lra">Click here for the solution.</link>
+</item>
+        <item id="uid79">The following diagrams each show two approaching pulses. Redraw the diagrams to show what type of interference takes place, and label the type of interference.
+<list id="id316891" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid80"><figure id="id316905"><media id="id316905_media" alt=""><image mime-type="image/png" src="../../media/PG10C4_032.png" id="id316905_onlineimage" width="201"><!-- NOTE: attribute width changes image size online (pixels). original width is 181. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_032.eps" id="id316905_printimage"/></media></figure></item><item id="uid81"><figure id="id316923"><media id="id316923_media" alt=""><image mime-type="image/png" src="../../media/PG10C4_033.png" id="id316923_onlineimage" width="206"><!-- NOTE: attribute width changes image size online (pixels). original width is 186. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_033.eps" id="id316923_printimage"/></media></figure></item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lrC">Click here for the solution.</link></item>
+        <item id="uid82">Two pulses, A and B, of identical shape and amplitude are simultaneously generated in two identical wires of equal mass and length. Wire A is, however, pulled tighter than wire B. Which pulse will arrive at the other end first, or will they both arrive at the same time?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lr1">Click here for the solution.</link>
+</item>
+      </list>
+    </section>
+  </content>
+</document>
