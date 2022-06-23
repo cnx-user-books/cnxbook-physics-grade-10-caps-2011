@@ -1,0 +1,38 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11309</md:content-id>
+    <md:title>Derived copy of Physics - Grade 10 [CAPS 2011]</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>9b5ee55f-161f-4ee3-8d93-8ad3e93754a2</md:uuid>
+<md:slug>derived-copy-of-physics-grade-10-caps-2011</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Mechanics</md:title>
+      <col:content>
+        <col:module document="m37829"/>
+        <col:module document="m37174"/>
+        <col:module document="m37923"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Waves, Sound and Light</md:title>
+      <col:content>
+        <col:module document="m37832"/>
+        <col:module document="m37834"/>
+        <col:module document="m37831"/>
+        <col:module document="m37912"/>
+        <col:module document="m37828"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electricity and Magnetism</md:title>
+      <col:content>
+        <col:module document="m37830"/>
+        <col:module document="m37825"/>
+        <col:module document="m37826"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
